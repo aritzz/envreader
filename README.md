@@ -63,7 +63,7 @@ Check the `examples/` directory to get some examples.
 
 # Documentation & testing
 
-This library is documented using GoDoc, so you can access to this documentation [here](). Or you can check directly using this command:
+This library is documented using GoDoc, so you can access to this documentation [here](https://pkg.go.dev/github.com/aritzz/envreader). Or you can check directly using this command:
 ```
 $ godoc -http=:6060
 ```
